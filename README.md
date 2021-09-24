@@ -4,7 +4,7 @@
  - 📚 Cursando Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 💻 Entusiasta por tecnolgia, ciência e inovação
- - 🙋🏼‍♂️ Sobre mim: Gosto de jogos, livros, esportes, aventuras, acampar, me divertir e aprender!
+ - 🙋🏼‍♂️ Sobre mim: Gosto de jogos, livros, esportes, me divertir e aprender!
 
 
 > 🧧 **“I am built upon the small things I do everyday”** 🧧
