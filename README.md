@@ -15,14 +15,24 @@
 
   ## Tecnologias 🛠
  
- <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src ="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Wesley-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Wesley-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wesley-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wesley-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wesley-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wesley-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Wesley-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Wesley-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+</div>
 
  ## Estatísticas 📈
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-rtc&theme=nightowl&layout=compact)  
- 
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Ricardo-rtc&theme=nightowl&layout=compact)
+ <div>
+  <a href="https://github.com/Ricardo-rtc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-rtc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-rtc&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 <!--
 **Ricardo-rtc/Ricardo-rtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
