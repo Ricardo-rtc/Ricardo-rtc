@@ -1,7 +1,7 @@
  ## 💻🎴👨‍💻Ricardo Tamahe👨‍💻🎴💻
-### Bom dia 👋
- Meu nome é Ricardo, sou aluno de Desenvolvimento de Sistemas no Senai de Informatica.
- - 📚 Cursando Desenvolvimento de Sistemas.
+### Olá!👋
+ Meu nome é Ricardo, sou aluno de Análise e Desenvolvimento de Sistemas no IFSP Câmpus Caraguatatuba.
+ - 📚 Cursando Análise e Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 💻 Entusiasta por tecnolgia, ciência e inovação
  - 🙋🏼‍♂️ Sobre mim: Gosto de jogos, livros, esportes, me divertir e aprender!
