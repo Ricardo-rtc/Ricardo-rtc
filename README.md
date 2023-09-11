@@ -1,6 +1,6 @@
  ## 💻🎴👨‍💻Ricardo Tamahe👨‍💻🎴💻
 ### Olá!👋
- Meu nome é Ricardo, sou aluno de Análise e Desenvolvimento de Sistemas no IFSP Câmpus Caraguatatuba.
+ Meu nome é Ricardo, sou aluno de Análise e Desenvolvimento de Sistemas no IFSP Câmpus São Paulo.
  - 📚 Cursando Análise e Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 💻 Entusiasta por tecnolgia, ciência e inovação
